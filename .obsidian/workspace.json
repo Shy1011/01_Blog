@@ -23,12 +23,52 @@
             "id": "a0a4302ea9ddd9f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18587ea761fdfe10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活/锻炼方式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c55b04aafe54ee72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活/锻炼方式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70127cf970e412be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活/睡觉.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "生活/睡觉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "生活/睡觉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "生活/睡觉.md"
+              }
             }
           }
         ]
@@ -152,10 +196,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0a4302ea9ddd9f2",
+  "active": "70127cf970e412be",
   "lastOpenFiles": [
-    "未命名.md",
+    "生活/锻炼方式.md",
+    "生活/assets/截图_20231108112523.png",
+    "生活/assets/截图_20231108112556.png",
+    "assets/Pasted image 20231108103117.png",
     "Readme.md",
-    "assets/Pasted image 20231108103117.png"
+    "通讯协议/未命名.md"
   ]
 }
