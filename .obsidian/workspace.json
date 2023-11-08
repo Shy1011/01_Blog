@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/锻炼方式.md",
+                "file": "生活/形体_锻炼方式.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/锻炼方式.md",
+                "file": "生活/形体_锻炼方式.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/睡觉.md",
+                "file": "生活/形体_锻炼方式.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/睡觉.md",
+                "file": "生活/形体_锻炼方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/睡觉.md",
+                "file": "生活/形体_锻炼方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/睡觉.md"
+                "file": "生活/形体_锻炼方式.md"
               }
             }
           }
@@ -196,13 +196,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70127cf970e412be",
+  "active": "5e088ad6f070e400",
   "lastOpenFiles": [
-    "生活/锻炼方式.md",
+    "Readme.md",
+    "生活/睡觉.md",
+    "生活/形体_锻炼方式.md",
     "生活/assets/截图_20231108112523.png",
     "生活/assets/截图_20231108112556.png",
     "assets/Pasted image 20231108103117.png",
-    "Readme.md",
     "通讯协议/未命名.md"
   ]
 }
