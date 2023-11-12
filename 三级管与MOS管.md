@@ -8,14 +8,12 @@ Figure : 三极管
 
 - <mark style="background: #BBFABBA6;">箭头永远在发射级上</mark>
 - <mark style="background: #FFB86CA6;">箭头所指的方向与电流方向一致</mark>
-
 #电流方向
 
 NPN B - > E
 PNP  E -> B
 
 #三极管如何导通
-
 对于三极管的开关特性分析，主要是看基极与发射极之间的电压情况。
 
 PNP，只要e极电压比b高0.7V以上，e、c之间就可以导通；
