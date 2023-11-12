@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通讯协议/TCP_UDP.md",
+                "file": "三级管与MOS管.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "通讯协议/TCP_UDP.md",
+                "file": "三级管与MOS管.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "通讯协议/TCP_UDP.md",
+                "file": "三级管与MOS管.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "通讯协议/TCP_UDP.md"
+                "file": "三级管与MOS管.md"
               }
             }
           }
@@ -187,6 +187,7 @@
   },
   "active": "505cd5bd972136fa",
   "lastOpenFiles": [
+    "通讯协议/TCP_UDP.md",
     "通讯协议/SPI.md",
     "通讯协议/IIC.md",
     "三级管与MOS管.md",
@@ -195,7 +196,6 @@
     "Circuit电路仿真的使用.md",
     "Readme.md",
     "生活/睡觉.md",
-    "生活/形体_锻炼方式.md",
-    "Github/Github.md"
+    "生活/形体_锻炼方式.md"
   ]
 }
