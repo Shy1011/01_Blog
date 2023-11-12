@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3873781911c5b9c",
+        "id": "e6198d4b22d9408f",
         "type": "tabs",
         "children": [
           {
-            "id": "767ddd5bf91c064f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0a4302ea9ddd9f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18587ea761fdfe10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生活/形体_锻炼方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c55b04aafe54ee72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生活/形体_锻炼方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70127cf970e412be",
+            "id": "3e4b06e875f0bf14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,19 +20,43 @@
             }
           },
           {
-            "id": "af328bdba0d8d121",
+            "id": "369a63a4bcbc504f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "通讯协议/IIC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2d458efabe14336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "通讯协议/SPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "505cd5bd972136fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "通讯协议/TCP_UDP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#创建分支",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,14 +122,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "通讯协议/TCP_UDP.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "通讯协议/TCP_UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,11 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "通讯协议/TCP_UDP.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,16 +185,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af328bdba0d8d121",
+  "active": "505cd5bd972136fa",
   "lastOpenFiles": [
+    "通讯协议/SPI.md",
     "通讯协议/IIC.md",
-    "Github/Github.md",
+    "三级管与MOS管.md",
+    "assets/截图_20231023100046.png.md",
+    "漏极开漏输出与推挽输出.md",
     "Circuit电路仿真的使用.md",
-    "生活/形体_锻炼方式.md",
     "Readme.md",
     "生活/睡觉.md",
-    "生活/assets/截图_20231108112523.png",
-    "生活/assets/截图_20231108112556.png",
-    "assets/Pasted image 20231108103117.png"
+    "生活/形体_锻炼方式.md",
+    "Github/Github.md"
   ]
 }
