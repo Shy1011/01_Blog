@@ -4,7 +4,7 @@
   "trashOption": "none",
   "promptDelete": false,
   "newLinkFormat": "relative",
-  "livePreview": false,
+  "livePreview": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -12,7 +12,5 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  },
-  "defaultViewMode": "source",
-  "strictLineBreaks": false
+  }
 }

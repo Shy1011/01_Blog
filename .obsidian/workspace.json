@@ -1,76 +1,72 @@
 {
   "main": {
-    "id": "a03f4f1a737451a1",
+    "id": "26be6e44a3f7b015",
     "type": "split",
     "children": [
       {
-        "id": "e6198d4b22d9408f",
+        "id": "35ef020410a3c952",
         "type": "tabs",
         "children": [
           {
-            "id": "3e4b06e875f0bf14",
+            "id": "c475eb2f1a50d7ce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "009318f018d61c71",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f8c368c48a9f52a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通讯协议/IIC.md",
+                "file": "未命名/Circuit电路仿真的使用.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "369a63a4bcbc504f",
+            "id": "b4cbf58248ceb1b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "通讯协议/IIC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "b2d458efabe14336",
+            "id": "18beddb26cf3ca59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "通讯协议/SPI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "505cd5bd972136fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "漏极开漏输出与推挽输出.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "27e8444a157fa0f6",
+    "id": "26e1e5d3af452183",
     "type": "split",
     "children": [
       {
-        "id": "487dee8c6503ab0e",
+        "id": "a9b1df27cb5684f1",
         "type": "tabs",
         "children": [
           {
-            "id": "5e088ad6f070e400",
+            "id": "9eaad155e9fe966c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,13 +76,13 @@
             }
           },
           {
-            "id": "b95287ade7bb19f9",
+            "id": "1c146a0b596c84d4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#开漏输出",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -95,37 +91,44 @@
             }
           },
           {
-            "id": "d89b994524c32b88",
+            "id": "d7869772ff4c7e78",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "333fa0b49abab429",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "1aa3d973d4e8179e",
+    "id": "f445d6384d8614ff",
     "type": "split",
     "children": [
       {
-        "id": "05c97f100f963a4a",
+        "id": "e646246a04444204",
         "type": "tabs",
         "children": [
           {
-            "id": "f70578a3f6ee8a40",
+            "id": "6e50cc2bef56139b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "漏极开漏输出与推挽输出.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "未命名/Circuit电路仿真的使用.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -135,19 +138,19 @@
             }
           },
           {
-            "id": "348d192444224d57",
+            "id": "3604fce247d5339b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "漏极开漏输出与推挽输出.md",
+                "file": "未命名/Circuit电路仿真的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b64696dbcbec3295",
+            "id": "aef463b2cbb2b080",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,13 +161,21 @@
             }
           },
           {
-            "id": "9aa294c47dd509d8",
+            "id": "57de954126a76931",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "漏极开漏输出与推挽输出.md"
+                "file": "未命名/Circuit电路仿真的使用.md"
               }
+            }
+          },
+          {
+            "id": "e6aa38276d9e3e1a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -172,31 +183,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 220.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "505cd5bd972136fa",
+  "active": "9eaad155e9fe966c",
   "lastOpenFiles": [
-    "通讯协议/TCP_UDP.md",
-    "三级管与MOS管.md",
-    "通讯协议/SPI.md",
-    "通讯协议/IIC.md",
-    "assets/截图_20231023100046.png.md",
-    "漏极开漏输出与推挽输出.md",
-    "Circuit电路仿真的使用.md",
+    "未命名",
     "Readme.md",
-    "生活/睡觉.md",
-    "生活/形体_锻炼方式.md"
+    "Socket编程/Socket.md",
+    "01 今天学了什么.md",
+    "01 Plan.md",
+    "看病.md",
+    "特斯拉.md",
+    "微芯面试.md",
+    "Autocad/入门.md",
+    "3D建模/Introduction.md",
+    "嵌入式面试/02 微芯.md"
   ]
 }
