@@ -27,11 +27,9 @@
             "id": "5f8c368c48a9f52a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "硬件电路/assets/Pasted image 20231112112540.png"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "硬件电路/assets/Pasted image 20231112112540.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "硬件电路/assets/Pasted image 20231112112540.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "硬件电路/assets/Pasted image 20231112112540.png"
               }
             }
           },
@@ -196,13 +194,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f8c368c48a9f52a",
+  "active": "9eaad155e9fe966c",
   "lastOpenFiles": [
     "硬件电路/漏极开漏输出与推挽输出.md",
+    "Readme.md",
     "硬件电路/三级管与MOS管.md",
     "硬件电路/Circuit电路仿真的使用.md",
     "硬件电路/assets/Pasted image 20231112112326.png",
-    "Readme.md",
     "硬件电路/assets/Pasted image 20231108103117.png",
     "硬件电路/assets/Pasted image 20231112112540.png",
     "硬件电路/assets/截图_20231023100046.png 1.md",
