@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件电路/漏极开漏输出与推挽输出.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件电路/漏极开漏输出与推挽输出.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬件电路/漏极开漏输出与推挽输出.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件电路/漏极开漏输出与推挽输出.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -198,9 +198,9 @@
   },
   "active": "5f8c368c48a9f52a",
   "lastOpenFiles": [
+    "硬件电路/漏极开漏输出与推挽输出.md",
     "硬件电路/三级管与MOS管.md",
     "硬件电路/Circuit电路仿真的使用.md",
-    "硬件电路/漏极开漏输出与推挽输出.md",
     "硬件电路/assets/Pasted image 20231112112326.png",
     "Readme.md",
     "硬件电路/assets/Pasted image 20231108103117.png",
