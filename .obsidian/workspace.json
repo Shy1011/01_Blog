@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circuit电路仿真的使用.md",
+                "file": "硬件电路/漏极开漏输出与推挽输出.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circuit电路仿真的使用.md",
+                "file": "硬件电路/漏极开漏输出与推挽输出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circuit电路仿真的使用.md",
+                "file": "硬件电路/漏极开漏输出与推挽输出.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circuit电路仿真的使用.md"
+                "file": "硬件电路/漏极开漏输出与推挽输出.md"
               }
             }
           },
@@ -196,10 +196,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9eaad155e9fe966c",
+  "active": "5f8c368c48a9f52a",
   "lastOpenFiles": [
-    "未命名",
+    "硬件电路/三级管与MOS管.md",
+    "硬件电路/Circuit电路仿真的使用.md",
+    "硬件电路/漏极开漏输出与推挽输出.md",
+    "硬件电路/assets/Pasted image 20231112112326.png",
     "Readme.md",
+    "硬件电路/assets/Pasted image 20231108103117.png",
+    "硬件电路/assets/Pasted image 20231112112540.png",
+    "硬件电路/assets/截图_20231023100046.png 1.md",
+    "硬件电路/assets/Pasted image 20231111195510.png",
+    "硬件电路/assets/截图_20231112105128 1.png",
+    "硬件电路/assets/截图_20231112113207.png",
+    "硬件电路/assets/Pasted image 20231112125139.png",
+    "硬件电路/assets/Pasted image 20231111195510.png",
+    "硬件电路/assets/推挽输出.ms14",
+    "硬件电路/assets/截图_20231023100046.png.md",
+    "硬件电路/assets",
+    "硬件电路",
     "Socket编程/Socket.md",
     "01 今天学了什么.md",
     "01 Plan.md",
