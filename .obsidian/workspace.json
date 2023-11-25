@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件电路/漏极开漏输出与推挽输出.md",
+                "file": "通讯协议/IIC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,17 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f319ce32eb30703e",
+  "active": "5f8c368c48a9f52a",
   "lastOpenFiles": [
+    "通讯协议/IIC.md",
+    "硬件电路/漏极开漏输出与推挽输出.md",
     "硬件电路/Circuit电路仿真的使用.md",
     "硬件电路/三级管与MOS管.md",
-    "硬件电路/漏极开漏输出与推挽输出.md",
     "Readme.md",
     "Others/软件.md",
     "硬件电路/assets/Pasted image 20231123204641.png",
     "硬件电路/assets/Pasted image 20231123204611.png",
     "硬件电路/assets/Pasted image 20231123204603.png",
-    "硬件电路/assets/Pasted image 20231112112540.png",
-    "硬件电路/assets/Pasted image 20231112112326.png"
+    "硬件电路/assets/Pasted image 20231112112540.png"
   ]
 }
