@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/软件.md",
+                "file": "硬件电路/漏极开漏输出与推挽输出.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "电流方向",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/软件.md",
+                "file": "硬件电路/漏极开漏输出与推挽输出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/软件.md",
+                "file": "硬件电路/漏极开漏输出与推挽输出.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/软件.md"
+                "file": "硬件电路/漏极开漏输出与推挽输出.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "f319ce32eb30703e",
   "lastOpenFiles": [
+    "硬件电路/Circuit电路仿真的使用.md",
+    "硬件电路/三级管与MOS管.md",
+    "硬件电路/漏极开漏输出与推挽输出.md",
     "Readme.md",
     "Others/软件.md",
-    "硬件电路/漏极开漏输出与推挽输出.md",
     "硬件电路/assets/Pasted image 20231123204641.png",
     "硬件电路/assets/Pasted image 20231123204611.png",
     "硬件电路/assets/Pasted image 20231123204603.png",
     "硬件电路/assets/Pasted image 20231112112540.png",
-    "硬件电路/assets/Pasted image 20231112112326.png",
-    "硬件电路/assets/Pasted image 20231111195510.png",
-    "硬件电路/assets/截图_20231112113207.png"
+    "硬件电路/assets/Pasted image 20231112112326.png"
   ]
 }
