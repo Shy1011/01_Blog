@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件电路/Circuit电路仿真的使用.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件电路/Circuit电路仿真的使用.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬件电路/Circuit电路仿真的使用.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件电路/Circuit电路仿真的使用.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -190,15 +190,15 @@
   },
   "active": "a76821ee5eef4a3a",
   "lastOpenFiles": [
-    "硬件电路/LDO  DC_DC.md",
     "Others/软件.md",
-    "Readme.md",
-    "通讯协议/TCP_UDP.md",
-    "未命名.md",
+    "Github/Github.md",
+    "硬件电路/LDO  DC_DC.md",
     "硬件电路/Circuit电路仿真的使用.md",
     "硬件电路/三级管与MOS管.md",
     "硬件电路/漏极开漏输出与推挽输出.md",
+    "通讯协议/TCP_UDP.md",
+    "通讯协议/SPI.md",
     "通讯协议/IIC.md",
-    "硬件电路/assets/Pasted image 20231123204641.png"
+    "生活/形体_锻炼方式.md"
   ]
 }

@@ -1,22 +1,22 @@
 # 参考
 
-[LDO与DC_DC的区别](https://www.zhihu.com/question/319559384/answer/2438675720)
+[LDO与DC_DC的区别](https://www.zhihu.com/question/319559384/answer/2438675720)  
 [LDO和DC-DC的有什么区别及优缺](https://www.zhihu.com/question/319559384/answer/647093310)
 
-嵌入式硬件最重要的就是
+嵌入式硬件最重要的就是  
 1. 电源
 2. 运放
 
-LDO DC-DC都是线性稳压器
-LDO 低压差线性稳压器
-DC - DC 稳压器
+LDO DC-DC都是线性稳压器  
+LDO 低压差线性稳压器  
+DC - DC 稳压器  
 
 - 电源是每一个电路都离不开的,运放可能用的比较少.
 - 只要解决了这两个问题,那么一般的设备内部的电路也就能搞懂了.
 
 # 区别
 ## LDO
-LDO 一般用于5v降压到3.3v,这个是1.7v的压差是属于比较低的压差.
+LDO 一般用于5v降压到3.3v,这个是1.7v的压差是属于比较低的压差.  
 <span style="background:#fff88f">原理 : 相当于电阻分压,发热量大,效率低.</span>
 ![](assets/Pasted%20image%2020231123204516.png)
 
