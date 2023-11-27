@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Others/软件.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Others/软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Others/软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Others/软件.md"
               }
             }
           },
@@ -190,15 +190,15 @@
   },
   "active": "a76821ee5eef4a3a",
   "lastOpenFiles": [
+    "Others/assets/截图_20231124173936.png",
+    "Others/assets/截图_20231124173620.png",
     "Others/软件.md",
-    "Github/Github.md",
+    "assets/Pasted image 20231124173908.png",
+    "硬件电路/三级管与MOS管.md",
     "硬件电路/LDO  DC_DC.md",
     "硬件电路/Circuit电路仿真的使用.md",
-    "硬件电路/三级管与MOS管.md",
-    "硬件电路/漏极开漏输出与推挽输出.md",
     "通讯协议/TCP_UDP.md",
-    "通讯协议/SPI.md",
-    "通讯协议/IIC.md",
-    "生活/形体_锻炼方式.md"
+    "硬件电路/漏极开漏输出与推挽输出.md",
+    "Readme.md"
   ]
 }
