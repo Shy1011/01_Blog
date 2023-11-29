@@ -15,8 +15,8 @@ LDO 一般用于5v降压到3.3v,这个是1.7v的压差是属于比较低的压�
 ![](assets/Pasted%20image%2020231123204516.png)
 
 
-<span style="background:#fdbfff">LDO线性稳压器它的内部既然相当于一个滑动变阻器，输入和输出的压差损耗全部被电阻转化成热能给消耗了，当然会发热。  </span>
-<span style="background:#fdbfff">而芯片的功耗：UI=(Uout-Uin)工out。假如我们使用一个降压芯片LM7805输入12V，输出5V/1A，那么芯片的功耗就是:  </span>
+<span style="background:#fdbfff">LDO线性稳压器它的内部既然相当于一个滑动变阻器，输入和输出的压差损耗全部被电阻转化成热能给消耗了，当然会发热。  </span>  
+<span style="background:#fdbfff">而芯片的功耗：UI=(Uout-Uin)工out。假如我们使用一个降压芯片LM7805输入12V，输出5V/1A，那么芯片的功耗就是:  </span>    
 <span style="background:#fdbfff">（12V-5V） *1A=7W。其实这个7W的功率相当于一个小型的电烙铁了。</span>
 
 考虑一下功率如何发热.
