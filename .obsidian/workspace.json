@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "f17a78b6cb7371c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "硬件电路/LDO  DC_DC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f319ce32eb30703e",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/有氧锻炼.md",
+                "file": "硬件电路/LDO  DC_DC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/有氧锻炼.md",
+                "file": "硬件电路/LDO  DC_DC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/有氧锻炼.md"
+                "file": "硬件电路/LDO  DC_DC.md"
               }
             }
           },
@@ -200,8 +212,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad3ebc74b0b82149",
+  "active": "f17a78b6cb7371c4",
   "lastOpenFiles": [
+    "硬件电路/放大器.md",
+    "生活/有氧锻炼.md",
     "生活/无氧_形体_锻炼方式.md",
     "Readme.md",
     "Others/软件.md",
@@ -209,8 +223,6 @@
     "Others/assets/截图_20231124173620.png",
     "assets/Pasted image 20231124173908.png",
     "硬件电路/三级管与MOS管.md",
-    "硬件电路/LDO  DC_DC.md",
-    "硬件电路/Circuit电路仿真的使用.md",
-    "通讯协议/TCP_UDP.md"
+    "硬件电路/LDO  DC_DC.md"
   ]
 }
