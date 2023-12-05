@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件电路/电感.md",
+                "file": "硬件电路/三级管与MOS管.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件电路/电感.md",
+                "file": "硬件电路/三级管与MOS管.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬件电路/电感.md",
+                "file": "硬件电路/三级管与MOS管.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件电路/电感.md"
+                "file": "硬件电路/三级管与MOS管.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "13bba1820b91f97e",
   "lastOpenFiles": [
+    "通讯协议/IIC.md",
+    "通讯协议/TCP_UDP.md",
+    "硬件电路/电感.md",
     "硬件电路/LDO  DC_DC.md",
     "硬件电路/Circuit电路仿真的使用.md",
     "硬件电路/三级管与MOS管.md",
     "Readme.md",
-    "通讯协议/IIC.md",
     "硬件电路/放大器.md",
     "生活/有氧锻炼.md",
-    "生活/无氧_形体_锻炼方式.md",
-    "Others/软件.md",
-    "Others/assets/截图_20231124173936.png"
+    "生活/无氧_形体_锻炼方式.md"
   ]
 }

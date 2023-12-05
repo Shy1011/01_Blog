@@ -23,6 +23,7 @@ Figure : 线与
 <mark style="background: #ABF7F7A6;">线与</mark>，指的是它们任意一开关只要对地导通，这根线就一定是低电平。
 
 # IIC时序
+[协议详解](https://zhuanlan.zhihu.com/p/667758406)
 
 ## 开始/结束信号
 ![](assets/截图_20231112111146.png)
