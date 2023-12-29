@@ -1,8 +1,10 @@
 # 参考 
 
-[硅农：IIC协议学习笔记](https://zhuanlan.zhihu.com/p/34674402)   
-[I2C为什么要用开漏输出和上拉电阻?-CSDN博客](https://blog.csdn.net/HackEle/article/details/122572423)   
-[I2C接口为什么要设计成开漏输出？\_i2c开漏输出-CSDN博客](https://blog.csdn.net/m0_65346989/article/details/130566260)  
+[硅农：IIC协议学习笔记](https://zhuanlan.zhihu.com/p/34674402)     
+[I2C为什么要用开漏输出和上拉电阻?-CSDN博客](https://blog.csdn.net/HackEle/article/details/122572423)     
+[I2C接口为什么要设计成开漏输出？\_i2c开漏输出-CSDN博客](https://blog.csdn.net/m0_65346989/article/details/130566260)    
+[软件模拟IIC](https://blog.csdn.net/as480133937/article/details/105366932)   
+[软件模拟IIC2](https://blog.csdn.net/as480133937/article/details/105366932)     
 
 # IIC通讯引脚设置
 #IIC  #开漏输出 #线与

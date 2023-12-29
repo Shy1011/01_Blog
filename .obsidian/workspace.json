@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/发型.md",
+                "file": "通讯协议/IIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/发型.md",
+                "file": "通讯协议/IIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/发型.md",
+                "file": "通讯协议/IIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/发型.md"
+                "file": "通讯协议/IIC.md"
               }
             }
           },
@@ -203,7 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": false,
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -214,6 +214,7 @@
   },
   "active": "5fa29d7cd045d89b",
   "lastOpenFiles": [
+    "生活/发型.md",
     "硬件电路/Mos管.md",
     "通讯协议/TCP_UDP.md",
     "硬件电路/电容.md",
